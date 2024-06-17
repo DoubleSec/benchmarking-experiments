@@ -1,0 +1,8 @@
+model_name: resnet
+device: gpu
+seed: 212
+n_epochs: 8
+log_every_n_steps: 50
+batch_size: 1024
+num_workers: 12
+precision: bf16-mixed

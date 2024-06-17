@@ -1,0 +1,4 @@
+model_name: xgboost
+device: cuda
+sampling_method: gradient_based
+seed: 212

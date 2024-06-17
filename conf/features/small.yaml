@@ -1,0 +1,8 @@
+numeric:
+  - release_speed
+  - pfx_x
+  - pfx_z
+  - plate_x
+  - plate_z
+
+categorical: []

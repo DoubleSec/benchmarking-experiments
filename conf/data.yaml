@@ -1,0 +1,8 @@
+# Please note that if you modify this, you'll get a different dataset.
+destination: ./data
+raw_cache_file: raw_cache.parqet
+task: ???
+seed: 212
+min_date: "2022-01-01"
+max_date: "2023-12-31"
+train_frac: 0.85

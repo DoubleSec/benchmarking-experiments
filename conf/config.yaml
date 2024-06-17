@@ -1,0 +1,9 @@
+defaults:
+  - features: small
+  - model: ???
+  - data
+  - _self_
+
+task: ???
+seed: 7700
+n_trials: 30
